@@ -1,0 +1,36 @@
+// Variables 
+
+
+$Blue: hsl(246, 80%, 60%);
+
+$work : hsl(15, 100%, 70%);//work
+$play: hsl(195, 74%, 62%);//play
+$study: hsl(348, 100%, 68%);//study
+$exercise: hsl(145, 58%, 55%);//exercise
+$social: hsl(264, 64%, 52%);//social
+$selfcare: hsl(43, 84%, 65%);//selfcare
+$Very-dark-blue: hsl(226, 43%, 10%);
+$Dark-blue: hsl(235, 46%, 20%);
+$Desaturated-blue: hsl(235, 45%, 61%);
+$Pale-Blue: hsl(236, 100%, 87%);
+$card-hover:rgb(52,57,123);
+
+
+$dark-bg-color: #1e1e2f;
+$dark-text-color: white;
+$dark-card-color: #252945;
+$dark-button-bg: #44475a;
+$dark-button-text: white;
+$dark-button-hover-bg: #5c5f78;
+
+$light-bg-color: #f0f4fc;
+$light-text-color: #1e1e2f;
+$light-card-color: #ffffff;
+$light-button-bg: #d1d9ff;
+$light-button-text: #1e1e2f;
+$light-button-hover-bg: #9eaefc;
+
+@import "general";
+@import "main";
+@import "media1";
+@import "media2";
